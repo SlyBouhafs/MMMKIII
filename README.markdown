@@ -5,7 +5,7 @@ Tested only on Live 11 but should be compatible with Live 7, 8, 9 and 10.
 
 ## Control Ableton via the MPK Mini MK3
 
-***MMMKIII*** is a ***MIDI Remote Script*** for Ableton Live that gives access to common settings of the currently selected track (arm, mute, solo, volume, pan…) as well as the currently selected device (on/off, parameters, banks, lock…). Furthermore some global controls are instantly mapped as well.
+***MMMKIII*** is a ***MIDI Remote Script*** for Ableton Live that gives access to common settings of the currently selected track via **CC commands** (arm, mute, solo, volume, pan…) as well as the currently selected device (on/off, parameters, banks, lock…). Furthermore some global controls are instantly mapped as well.
 
 Among the mapped functionality is:
 
