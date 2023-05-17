@@ -20,7 +20,7 @@ Among the mapped functionality is:
 
 To make this work, 4 programs needs to be sent to the controller using the MPK Mini MK3 Program Editor.
 
-There are 4 Programs: The first two programs BANK B is the same as the device program, this will allow you to switch to device mapping using the BANK A/B button.
+There are 4 Programs: The first two programs BANK B is the same as the device program, this will allow you to switch quickly to the device mapping using the BANK A/B button.
 
 ### Arrangement:
 ![Arragenement Setup](assets/images/ARRANGEMENT%20SETUP.png)
