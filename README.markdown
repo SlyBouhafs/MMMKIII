@@ -6,22 +6,26 @@ Tested only on Live 11 but should be compatible with Live 7, 8, 9 and 10.
 
 ![MMMKIII Setup](assets/images/MMMKIII.png)
 
-***MMMKIII*** is a ***MIDI Remote Script*** for Ableton Live that gives access to common settings of the currently selected track via **CC messages** (arm, mute, solo, volume, pan…) as well as the currently selected device (on/off, parameters, banks, lock…). Furthermore some global controls are instantly mapped as well.
+Experience enhanced control over Ableton Live with ***MMMKIII***, a powerful *** MIDI Remote Script*** designed to provide convenient access to common track settings and device parameters while effortlessly navigating through device view, session view, and arrangement view.
+
+
+***MMMKIII*** is a ***MIDI Remote Script*** for Ableton Live that gives access to common settings of the currently selected track via **CC messages** (arm, mute, solo, volume, pan…) as well as the currently selected device (on/off, parameters, banks, lock…).
 
 Among the mapped functionality is:
 
-*	**arm**, **solo** and **mute** the selected track
-*	control **volume, pan** and **send 1-4** of the selected track
-*	**toggle loop, record, play and stop**
+*	**Arm**, **solo** and **mute** the selected track
+*	Control **volume, pan** and **send 1-4** of the selected track
+*	**Toggle loop, record, play and stop**
 *	**Navigate device view**
 *	**Navigate session-view**
 *	**Navigate arrangement-view** 
 *	**Fire scenes and clips**
 *	…
 
-To make this work, I made 4 Programs that must be sent to the controller using the MPK Mini MK3 Program Editor.
+In order to ensure functionality, I created four programs that need to be loaded into the controller through the MPK Mini MK3 Program Editor.
 
-The first two programs *BANK B* is the same as the device program, this will allow you to switch quickly to the device mapping using the BANK A/B button.
+
+The *BANK B* of the first two programs mirrors the device program, enabling quick switching between device mappings using the BANK A/B button.
 
 ### Arrangement:
 ![Arragenement Setup](assets/images/ARRANGEMENT%20SETUP.png)
@@ -42,24 +46,22 @@ The first two programs *BANK B* is the same as the device program, this will all
 
 Download the latest release zip [from here](https://github.com/SlyBouhafs/MMMKIII/releases/latest) and unzip it or clone the repository.
 
-1.	Stop Live if it is running.
-2.	In the `assets/presets/` folder, there are 4 programs, use the MPK Mini MK3 Program Editor to install each one.
-3.	Add **MMMKIII** to Ableton Live's MIDI Remote Scripts
+1.	Make sure that Live isn't running.
+2.	In the `assets/presets/` folder, there are 4 programs, use the MPK Mini MK3 Program Editor to load each one.
+3.	Add **MMMKIII** to Ableton Live's MIDI Remote Scripts folder.
 
 	[See Ableton’s help page regarding installing third-party remote scripts.](https://help.ableton.com/hc/en-us/articles/209072009-Installing-third-party-remote-scripts)
 
 4.	Start Live.
 5.	Enable **MMMKIII** as a Control Surface in Live
 
-	In Live’s Preferences go to the **MIDI Sync** tab and select **MMMKIII** in the dropdown list of available Control Surfaces. As MIDI Input and Output, select your controller’s MIDI-port.
+	In Live’s Preferences go to the **MIDI Sync** tab and select **MMMKIII** in the dropdown list of available Control Surfaces. For the MIDI Input and Output, select your controller’s MIDI-port.
 	
-
 
 ## License
 
 This work is licensed under the "Simplified BSD License" / "FreeBSD License"
 see License.txt
-
 
 
 ## Acknowledgement
