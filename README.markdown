@@ -39,7 +39,7 @@ There are 4 Programs: The first two programs BANK B is the same as the device pr
 ## Installation
 
 
-Download the zip release and unzip it or clone the repo from github.
+Download the latest release zip [from here](https://github.com/SlyBouhafs/MMMKIII/releases/latest) and unzip it or clone the repository.
 
 1.	Stop Live if it is running.
 2.	In the `assets/presets/` folder, there are 4 programs, use the MPK Mini MK3 Program Editor to install each one.
