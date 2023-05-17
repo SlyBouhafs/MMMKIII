@@ -1,7 +1,6 @@
-# Akai MPK Mini MK3 MIDI Remote Script for Ableton Live
+# The Ultimate Akai MPK Mini MK3 MIDI Remote Script for Ableton Live
 
 Tested only on Live 11 but should be compatible with Live 7, 8, 9 and 10.
-
 
 ## Control Ableton via the MPK Mini MK3
 
