@@ -6,7 +6,7 @@ Tested only on Live 11 but should be compatible with Live 7, 8, 9 and 10.
 
 ![MMMKIII Setup](assets/images/MMMKIII.png)
 
-Experience enhanced control over Ableton Live with ***MMMKIII***, a powerful *** MIDI Remote Script*** designed to provide convenient access to common track settings and device parameters while effortlessly navigating through device view, session view, and arrangement view.
+Experience enhanced control over Ableton Live with ***MMMKIII***, a powerful ***MIDI Remote Script*** designed to provide convenient access to common track settings and device parameters while effortlessly navigating through device view, session view, and arrangement view.
 
 
 ***MMMKIII*** is a ***MIDI Remote Script*** for Ableton Live that gives access to common settings of the currently selected track via **CC messages** (arm, mute, solo, volume, pan…) as well as the currently selected device (on/off, parameters, banks, lock…).
