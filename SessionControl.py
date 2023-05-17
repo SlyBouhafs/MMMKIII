@@ -296,8 +296,8 @@ class SessionControl(Control):
         for clip in selected_scene.clip_slots:
             if clip.is_playing:
                 is_playing = True
-        
-        if (is_playing or self.song.view.selected_scene.is_triggered):
+
+        if is_playing or self.song.view.selected_scene.is_triggered:
             self.song.stop_all_clips()
         else:
             selected_scene.fire()
