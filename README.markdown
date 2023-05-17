@@ -19,9 +19,9 @@ Among the mapped functionality is:
 *	**Fire scenes and clips**
 *	…
 
-To make this work, 4 programs needs to be sent to the controller using the MPK Mini MK3 Program Editor.
+To make this work, I made 4 Programs that needs to be sent to the controller using the MPK Mini MK3 Program Editor.
 
-There are 4 Programs: The first two programs BANK B is the same as the device program, this will allow you to switch quickly to the device mapping using the BANK A/B button.
+The first two programs *BANK B* is the same as the device program, this will allow you to switch quickly to the device mapping using the BANK A/B button.
 
 ### Arrangement:
 ![Arragenement Setup](assets/images/ARRANGEMENT%20SETUP.png)
