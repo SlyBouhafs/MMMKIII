@@ -58,6 +58,10 @@ Download the latest release zip [from here](https://github.com/SlyBouhafs/MMMKII
 	In Live’s Preferences go to the **MIDI Sync** tab and select **MMMKIII** in the dropdown list of available Control Surfaces. For the MIDI Input and Output, select your controller’s MIDI-port.
 	
 
+## Feedback
+
+If you've got any feedback, feel free to open up an issue.
+
 ## License
 
 This work is licensed under the "Simplified BSD License" / "FreeBSD License"
