@@ -60,7 +60,7 @@ Download the latest release zip [from here](https://github.com/SlyBouhafs/MMMKII
 
 ## Feedback
 
-If you've got any feedback, feel free to open up an issue.
+If you've got any feedback, feel free to [open](https://github.com/SlyBouhafs/MMMKIII/issues/new) up an issue.
 
 ## License
 
