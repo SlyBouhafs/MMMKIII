@@ -60,12 +60,13 @@ Download the latest release zip [from here](https://github.com/SlyBouhafs/MMMKII
 
 ## Feedback
 
-If you've got any feedback, feel free to [open](https://github.com/SlyBouhafs/MMMKIII/issues/new) up an issue.
+If you've got any feedback, feel free to [open up an issue.](https://github.com/SlyBouhafs/MMMKIII/issues/new)
 
 ## License
 
 This work is licensed under the "Simplified BSD License" / "FreeBSD License"
-see License.txt
+
+See (License.txt)[https://github.com/SlyBouhafs/MMMKIII/blob/master/License.txt]
 
 
 ## Acknowledgement
