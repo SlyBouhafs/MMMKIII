@@ -66,7 +66,7 @@ If you've got any feedback, feel free to [open up an issue.](https://github.com/
 
 This work is licensed under the "Simplified BSD License" / "FreeBSD License"
 
-See (License.txt)[https://github.com/SlyBouhafs/MMMKIII/blob/master/License.txt]
+See [License.txt](https://github.com/SlyBouhafs/MMMKIII/blob/master/License.txt)
 
 
 ## Acknowledgement
